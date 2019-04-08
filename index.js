@@ -33,5 +33,5 @@ return kittens.slice;
 }
 
 function removeFirstKitten(){
-return kittens.
+return kittens.concat;
 }
