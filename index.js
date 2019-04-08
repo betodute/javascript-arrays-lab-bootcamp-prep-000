@@ -29,3 +29,9 @@ return [(name),...kittens];
 }
 
 function removeLastKitten(){
+return kittens.slice;
+}
+
+function removeFirstKitten(){
+return kittens.
+}
